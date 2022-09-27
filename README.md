@@ -1,2 +1,2 @@
 # Cryptocurrencies
-Unsupervised learning, Clustering and PCA
+Unsupervised learning, Transformation and Clustering, PCA
