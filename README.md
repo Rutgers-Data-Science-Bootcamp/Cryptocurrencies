@@ -9,3 +9,7 @@ Create a report that includes what cryptocurrencies are on the trading market an
 - visualizing classified results with 2D and 3D scatter plots. 
 ## Resources
 [Crypto_data](https://github.com/ShiraliObul/Cryptocurrencies/blob/main/crypto_data.csv)
+Tools : Python, jupyter notebook, skilearn
+
+## Results
+
