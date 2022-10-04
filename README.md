@@ -29,3 +29,11 @@ We produced the elbow curve below using the K-Means method iterating on k values
 We created hv_table as an interactive table in the jupyter notebook, as you can see in the picture below as sorted by class, most of the cryptocurrencies belongs to #0, #1 classes, and there is only one cryptocurrencies belongs to #3, which is highlight here, BitTorrent;
 
 ![Screen Shot 2022-10-03 at 11 55 51 PM](https://user-images.githubusercontent.com/65901034/193730976-7df3715b-dff8-4adb-9354-82b5030b8895.png)
+
+#### 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
+Plotting the scatter plot with two cryptocurrency features directly does not efficiently segregate the different classes. As you seen earlier using the PCA algorithm is the right method for better visualizations. 
+
+![Screen Shot 2022-10-01 at 11 00 07 AM](https://user-images.githubusercontent.com/65901034/193731400-035418a4-e99d-40f3-a31b-f201ceeab298.png)
+
+## Summary
+We have showed 4 clusters of cryptocurrencies after classification of 532 cryptocurrencies based on similarities of their features by unsupervised machine learning algorithms. 3D PCA plot nicely showed the 4 clusters, most of the cryptocurrencies are part of the #0, #1 clusters, 6 of them belong to #2 cluster, only 1 of them belongs to #3. Only with two cryptocurrency features (TotalCoinMined vs TotalCoinSupply) does not efficiently segregate the different classes. So, more features giving more power to classify the cryptocurrencies in this case. 
