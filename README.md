@@ -8,4 +8,4 @@ Create a report that includes what cryptocurrencies are on the trading market an
 - clustering cryptocurrencies using K-Means algorithm,
 - visualizing classified results with 2D and 3D scatter plots. 
 ## Resources
-[Crypto_data]()
+[Crypto_data](https://github.com/ShiraliObul/Cryptocurrencies/blob/main/crypto_data.csv)
