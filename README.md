@@ -36,4 +36,6 @@ Plotting the scatter plot with two cryptocurrency features directly does not eff
 ![Screen Shot 2022-10-01 at 11 00 07 AM](https://user-images.githubusercontent.com/65901034/193731400-035418a4-e99d-40f3-a31b-f201ceeab298.png)
 
 ## Summary
-We have showed 4 clusters of cryptocurrencies after classification of 532 cryptocurrencies based on similarities of their features by unsupervised machine learning algorithms. 3D PCA plot nicely showed the 4 clusters, most of the cryptocurrencies are part of the #0, #1 clusters, 6 of them belong to #2 cluster, only 1 of them belongs to #3. Only with two cryptocurrency features (TotalCoinMined vs TotalCoinSupply) does not efficiently segregate the different classes. So, more features giving more power to classify the cryptocurrencies in this case. 
+We have showed 4 clusters of cryptocurrencies after classification of 532 cryptocurrencies based on similarities of their features by unsupervised machine learning algorithms. 3D PCA plot nicely showed the 4 clusters, most of the cryptocurrencies are part of the #0, #1 clusters, 6 of them belong to #2 cluster, only 1 of them belongs to #3. Only with two cryptocurrency features (TotalCoinMined vs TotalCoinSupply) does not efficiently segregate the different classes. So, more features giving more power to classify the cryptocurrencies in this case.
+
+**[`^        back to top        ^`](#Overview-of-the-project)**
